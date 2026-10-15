@@ -1,0 +1,2 @@
+# Meu projeto de curriculo em HTML
+ Nesse projeto criei o meu curriculo utilizando os conceitos e códigos ensinados na aula. Utilizei imagens de formatos diferentes, contornos, cor de fundo nas palavras, fontes diferentes, entre outros
